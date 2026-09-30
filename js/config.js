@@ -1,0 +1,1 @@
+window.ZARTZ_CONFIG={PAYSTACK_PUBLIC_KEY:"pk_test_d91835a0ea0697ee12d83e17ed65b502bb48566f",SUPABASE_URL:"https://kvpffgobjpsxwaglvwzg.supabase.co",SUPABASE_ANON_KEY:"sb_publishable_RNyz9aDgrtD7lJ0Dy-riMA_4ubsh-18",API_BASE:"/api"};window.zartz={supabase:window.supabase.createClient(ZARTZ_CONFIG.SUPABASE_URL,ZARTZ_CONFIG.SUPABASE_ANON_KEY)};
